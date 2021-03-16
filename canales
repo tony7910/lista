@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS l TELEMUNDO LOS ANGELES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="TELEMUNDO  =  NOTICIAS",NOTICIAS l TELEMUNDO LOS ANGELES
+http://compitv.info:8080/2mASUTARLP/xkLBHjC9Cc/30228
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS l TELEMUNDO NEWYORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="TELEMUNDO  =  NOTICIAS",NOTICIAS l TELEMUNDO NEWYORK
+http://compitv.info:8080/2mASUTARLP/xkLBHjC9Cc/30229
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS l TELEMUNDO CHICAGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="TELEMUNDO  =  NOTICIAS",NOTICIAS l TELEMUNDO CHICAGO
+http://compitv.info:8080/2mASUTARLP/xkLBHjC9Cc/30231
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS l TELEMUNDO MIAMI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="TELEMUNDO  =  NOTICIAS",NOTICIAS l TELEMUNDO MIAMI
+http://compitv.info:8080/2mASUTARLP/xkLBHjC9Cc/30233
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS l TELEMUNDO CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="TELEMUNDO  =  NOTICIAS",NOTICIAS l TELEMUNDO CENTRAL
+http://compitv.info:8080/2mASUTARLP/xkLBHjC9Cc/30234
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS l TELEMUNDO BOSTON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/150px-Telemundo_logo_2018.svg.png" group-title="TELEMUNDO  =  NOTICIAS",NOTICIAS l TELEMUNDO BOSTON
+http://compitv.info:8080/2mASUTARLP/xkLBHjC9Cc/30235
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2oLkw91USsjFFgg0AE236fMYMVE8s4D39uqxKSq29r8nnvD2x&usqp=CAU" group-title="MUSICA",HTV
+http://compitv.info:8080/2mASUTARLP/xkLBHjC9Cc/47854
